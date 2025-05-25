@@ -1,2 +1,2 @@
 # anamnese
-Anamnese Complete Team Chernobyl
+Anamnese Complet Team Chernobyl
